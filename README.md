@@ -1,2 +1,3 @@
 # COVID_US_Economy
-# This is the README
+
+Youtube link for final presentation: https://youtu.be/mAM3nBwe8bs
